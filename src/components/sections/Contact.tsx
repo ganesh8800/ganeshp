@@ -70,8 +70,8 @@ const Contact = () => {
     {
       icon: Phone,
       label: "Phone",
-      value: "9900008800",
-      href: "tel:+919900008800",
+      value: "9902028800",
+      href: "tel:+919902028800",
       color: "from-electric-purple to-electric-pink"
     },
     {
