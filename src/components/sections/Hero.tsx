@@ -1,4 +1,3 @@
-
 import { Button } from '@/components/ui/button';
 import { ArrowDown } from 'lucide-react';
 
@@ -19,7 +18,7 @@ const Hero = ({ onNavigate }: HeroProps) => {
             <div className="relative w-48 h-48 mx-auto">
               <div className="absolute inset-0 electric-gradient rounded-full p-1">
                 <img
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face"
+                  src="https://i.postimg.cc/rF3X349Z/ganesh-p.jpg"
                   alt="GANESH P"
                   className="w-full h-full object-cover rounded-full bg-card"
                 />
